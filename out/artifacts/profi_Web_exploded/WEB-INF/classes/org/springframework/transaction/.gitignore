@@ -1,0 +1,17 @@
+/CannotCreateTransactionException.class
+/HeuristicCompletionException.class
+/IllegalTransactionStateException.class
+/InvalidIsolationLevelException.class
+/InvalidTimeoutException.class
+/NestedTransactionNotSupportedException.class
+/NoTransactionException.class
+/PlatformTransactionManager.class
+/SavepointManager.class
+/TransactionDefinition.class
+/TransactionException.class
+/TransactionStatus.class
+/TransactionSuspensionNotSupportedException.class
+/TransactionSystemException.class
+/TransactionTimedOutException.class
+/TransactionUsageException.class
+/UnexpectedRollbackException.class

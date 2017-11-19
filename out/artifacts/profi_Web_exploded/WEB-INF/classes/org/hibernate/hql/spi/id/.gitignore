@@ -1,0 +1,14 @@
+/AbstractIdsBulkIdHandler.class
+/AbstractMultiTableBulkIdStrategyImpl$PreparationContext.class
+/AbstractMultiTableBulkIdStrategyImpl.class
+/AbstractTableBasedBulkIdHandler$ProcessedWhereClause.class
+/AbstractTableBasedBulkIdHandler.class
+/IdTableHelper.class
+/IdTableInfo.class
+/IdTableSupport.class
+/IdTableSupportStandardImpl.class
+/MultiTableBulkIdStrategy$DeleteHandler.class
+/MultiTableBulkIdStrategy$UpdateHandler.class
+/MultiTableBulkIdStrategy.class
+/TableBasedDeleteHandlerImpl.class
+/TableBasedUpdateHandlerImpl.class

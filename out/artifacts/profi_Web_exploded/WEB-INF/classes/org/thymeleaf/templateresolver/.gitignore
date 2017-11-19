@@ -1,0 +1,10 @@
+/AbstractConfigurableTemplateResolver.class
+/AbstractTemplateResolver.class
+/ClassLoaderTemplateResolver.class
+/DefaultTemplateResolver.class
+/FileTemplateResolver.class
+/ITemplateResolver.class
+/ServletContextTemplateResolver.class
+/StringTemplateResolver.class
+/TemplateResolution.class
+/UrlTemplateResolver.class

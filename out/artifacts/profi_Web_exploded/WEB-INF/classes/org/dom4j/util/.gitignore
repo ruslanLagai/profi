@@ -1,0 +1,14 @@
+/AttributeHelper.class
+/IndexedDocumentFactory.class
+/IndexedElement.class
+/NodeComparator.class
+/NonLazyDocumentFactory.class
+/NonLazyElement.class
+/PerThreadSingleton.class
+/ProxyDocumentFactory.class
+/SimpleSingleton.class
+/SingletonStrategy.class
+/UserDataAttribute.class
+/UserDataDocumentFactory.class
+/UserDataElement.class
+/XMLErrorHandler.class

@@ -1,0 +1,16 @@
+/AliasToBeanConstructorResultTransformer.class
+/AliasToBeanResultTransformer.class
+/AliasToEntityMapResultTransformer.class
+/AliasedTupleSubsetResultTransformer.class
+/BasicTransformerAdapter.class
+/CacheableResultTransformer.class
+/DistinctResultTransformer$1.class
+/DistinctResultTransformer$Identity.class
+/DistinctResultTransformer.class
+/DistinctRootEntityResultTransformer.class
+/PassThroughResultTransformer.class
+/ResultTransformer.class
+/RootEntityResultTransformer.class
+/ToListResultTransformer.class
+/Transformers.class
+/TupleSubsetResultTransformer.class

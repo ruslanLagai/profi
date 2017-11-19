@@ -1,0 +1,11 @@
+/BaseDigestPasswordEncoder.class
+/BasePasswordEncoder.class
+/LdapShaPasswordEncoder.class
+/Md4.class
+/Md4PasswordEncoder.class
+/Md5PasswordEncoder.class
+/MessageDigestPasswordEncoder.class
+/PasswordEncoder.class
+/PasswordEncoderUtils.class
+/PlaintextPasswordEncoder.class
+/ShaPasswordEncoder.class

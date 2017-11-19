@@ -1,0 +1,16 @@
+/AbstractMappingContext$1.class
+/AbstractMappingContext$PersistentPropertyCreator.class
+/AbstractMappingContext$PersistentPropertyFilter$PropertyMatch.class
+/AbstractMappingContext$PersistentPropertyFilter.class
+/AbstractMappingContext.class
+/DefaultPersistentPropertyPath$PropertyNameConverter.class
+/DefaultPersistentPropertyPath.class
+/InvalidPersistentPropertyPath.class
+/MappingContext.class
+/MappingContextEvent.class
+/MappingContextIsNewStrategyFactory$PersistentPropertyInspectingIsNewStrategy.class
+/MappingContextIsNewStrategyFactory$PropertyIsNullIsNewStrategy.class
+/MappingContextIsNewStrategyFactory$PropertyIsNullOrZeroNumberIsNewStrategy.class
+/MappingContextIsNewStrategyFactory.class
+/PersistentEntities.class
+/PersistentPropertyPath.class

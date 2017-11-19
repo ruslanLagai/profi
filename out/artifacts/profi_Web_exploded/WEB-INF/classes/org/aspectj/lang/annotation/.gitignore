@@ -1,0 +1,16 @@
+/AdviceName.class
+/After.class
+/AfterReturning.class
+/AfterThrowing.class
+/Around.class
+/Aspect.class
+/Before.class
+/DeclareAnnotation.class
+/DeclareError.class
+/DeclareMixin.class
+/DeclareParents.class
+/DeclarePrecedence.class
+/DeclareWarning.class
+/Pointcut.class
+/RequiredTypes.class
+/SuppressAjWarnings.class

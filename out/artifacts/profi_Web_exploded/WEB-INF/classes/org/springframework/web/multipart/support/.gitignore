@@ -1,0 +1,12 @@
+/AbstractMultipartHttpServletRequest.class
+/ByteArrayMultipartFileEditor.class
+/DefaultMultipartHttpServletRequest.class
+/MissingServletRequestPartException.class
+/MultipartFilter.class
+/MultipartResolutionDelegate$RequestPartResolver.class
+/MultipartResolutionDelegate.class
+/RequestPartServletServerHttpRequest.class
+/StandardMultipartHttpServletRequest$StandardMultipartFile.class
+/StandardMultipartHttpServletRequest.class
+/StandardServletMultipartResolver.class
+/StringMultipartFileEditor.class

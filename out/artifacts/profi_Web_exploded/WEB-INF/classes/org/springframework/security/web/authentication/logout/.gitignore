@@ -1,0 +1,9 @@
+/CompositeLogoutHandler.class
+/CookieClearingLogoutHandler.class
+/DelegatingLogoutSuccessHandler.class
+/HttpStatusReturningLogoutSuccessHandler.class
+/LogoutFilter.class
+/LogoutHandler.class
+/LogoutSuccessHandler.class
+/SecurityContextLogoutHandler.class
+/SimpleUrlLogoutSuccessHandler.class

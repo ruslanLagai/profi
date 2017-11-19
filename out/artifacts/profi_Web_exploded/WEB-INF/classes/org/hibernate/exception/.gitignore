@@ -1,0 +1,7 @@
+/ConstraintViolationException.class
+/DataException.class
+/GenericJDBCException.class
+/JDBCConnectionException.class
+/LockAcquisitionException.class
+/LockTimeoutException.class
+/SQLGrammarException.class

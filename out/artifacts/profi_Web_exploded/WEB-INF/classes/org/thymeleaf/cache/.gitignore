@@ -1,0 +1,15 @@
+/AbstractCacheManager.class
+/AlwaysValidCacheEntryValidity.class
+/ExpressionCacheKey.class
+/ICache.class
+/ICacheEntryValidity.class
+/ICacheEntryValidityChecker.class
+/ICacheManager.class
+/NonCacheableCacheEntryValidity.class
+/StandardCache$CacheDataContainer.class
+/StandardCache$CacheEntry.class
+/StandardCache.class
+/StandardCacheManager.class
+/StandardParsedTemplateEntryValidator.class
+/TTLCacheEntryValidity.class
+/TemplateCacheKey.class

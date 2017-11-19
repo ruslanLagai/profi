@@ -1,0 +1,5 @@
+/CannotCreateRecordException.class
+/CannotGetCciConnectionException.class
+/CciOperationNotSupportedException.class
+/InvalidResultSetAccessException.class
+/RecordTypeNotSupportedException.class

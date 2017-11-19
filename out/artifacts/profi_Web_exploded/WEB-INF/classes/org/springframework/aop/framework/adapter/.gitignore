@@ -1,0 +1,12 @@
+/AdvisorAdapter.class
+/AdvisorAdapterRegistrationManager.class
+/AdvisorAdapterRegistry.class
+/AfterReturningAdviceAdapter.class
+/AfterReturningAdviceInterceptor.class
+/DefaultAdvisorAdapterRegistry.class
+/GlobalAdvisorAdapterRegistry.class
+/MethodBeforeAdviceAdapter.class
+/MethodBeforeAdviceInterceptor.class
+/ThrowsAdviceAdapter.class
+/ThrowsAdviceInterceptor.class
+/UnknownAdviceTypeException.class

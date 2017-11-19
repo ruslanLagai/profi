@@ -1,0 +1,16 @@
+/AbstractInlineIdsBulkIdHandler.class
+/AbstractInlineIdsDeleteHandlerImpl.class
+/AbstractInlineIdsUpdateHandlerImpl.class
+/IdsClauseBuilder.class
+/InlineIdsIdsInClauseDeleteHandlerImpl.class
+/InlineIdsIdsOrClauseDeleteHandlerImpl.class
+/InlineIdsInClauseBuilder.class
+/InlineIdsInClauseBulkIdStrategy.class
+/InlineIdsInClauseUpdateHandlerImpl.class
+/InlineIdsOrClauseBuilder.class
+/InlineIdsOrClauseBulkIdStrategy.class
+/InlineIdsOrClauseUpdateHandlerImpl.class
+/InlineIdsSubSelectValueListBulkIdStrategy.class
+/InlineIdsSubSelectValuesListBuilder.class
+/InlineIdsSubSelectValuesListDeleteHandlerImpl.class
+/InlineIdsSubSelectValuesListUpdateHandlerImpl.class

@@ -1,0 +1,16 @@
+/GenericKeyedObjectPool$1.class
+/GenericKeyedObjectPool$Config.class
+/GenericKeyedObjectPool$Evictor.class
+/GenericKeyedObjectPool$ObjectTimestampPair.class
+/GenericKeyedObjectPool.class
+/GenericKeyedObjectPoolFactory.class
+/GenericObjectPool$1.class
+/GenericObjectPool$Config.class
+/GenericObjectPool$Evictor.class
+/GenericObjectPool.class
+/GenericObjectPoolFactory.class
+/SoftReferenceObjectPool.class
+/StackKeyedObjectPool.class
+/StackKeyedObjectPoolFactory.class
+/StackObjectPool.class
+/StackObjectPoolFactory.class

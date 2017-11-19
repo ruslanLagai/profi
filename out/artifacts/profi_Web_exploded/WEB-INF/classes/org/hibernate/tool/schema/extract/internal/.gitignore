@@ -1,0 +1,16 @@
+/ColumnInformationImpl.class
+/DatabaseInformationImpl.class
+/ExtractionContextImpl.class
+/ForeignKeyInformationImpl$ColumnReferenceMappingImpl.class
+/ForeignKeyInformationImpl.class
+/IndexInformationImpl$Builder.class
+/IndexInformationImpl.class
+/InformationExtractorJdbcDatabaseMetaDataImpl$ForeignKeyBuilder.class
+/InformationExtractorJdbcDatabaseMetaDataImpl$ForeignKeyBuilderImpl.class
+/InformationExtractorJdbcDatabaseMetaDataImpl.class
+/PrimaryKeyInformationImpl.class
+/SequenceInformationExtractorH2DatabaseImpl.class
+/SequenceInformationExtractorLegacyImpl.class
+/SequenceInformationExtractorNoOpImpl.class
+/SequenceInformationImpl.class
+/TableInformationImpl.class

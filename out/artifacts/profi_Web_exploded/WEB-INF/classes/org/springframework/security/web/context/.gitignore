@@ -1,0 +1,9 @@
+/AbstractSecurityWebApplicationInitializer.class
+/HttpRequestResponseHolder.class
+/HttpSessionSecurityContextRepository$SaveToSessionResponseWrapper.class
+/HttpSessionSecurityContextRepository$Servlet3SaveToSessionRequestWrapper.class
+/HttpSessionSecurityContextRepository.class
+/NullSecurityContextRepository.class
+/SaveContextOnUpdateOrErrorResponseWrapper.class
+/SecurityContextPersistenceFilter.class
+/SecurityContextRepository.class

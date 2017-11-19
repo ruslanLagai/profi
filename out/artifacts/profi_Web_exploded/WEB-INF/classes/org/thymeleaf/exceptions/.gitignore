@@ -1,0 +1,9 @@
+/AlreadyInitializedException.class
+/CacheConfigurationException.class
+/ConfigurationException.class
+/ParserInitializationException.class
+/TemplateAssertionException.class
+/TemplateEngineException.class
+/TemplateInputException.class
+/TemplateOutputException.class
+/TemplateProcessingException.class

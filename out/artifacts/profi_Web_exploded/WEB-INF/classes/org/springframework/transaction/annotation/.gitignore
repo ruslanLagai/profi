@@ -1,0 +1,15 @@
+/AbstractTransactionManagementConfiguration.class
+/AnnotationTransactionAttributeSource.class
+/Ejb3TransactionAnnotationParser$Ejb3TransactionAttribute.class
+/Ejb3TransactionAnnotationParser.class
+/EnableTransactionManagement.class
+/Isolation.class
+/JtaTransactionAnnotationParser.class
+/Propagation.class
+/ProxyTransactionManagementConfiguration.class
+/SpringTransactionAnnotationParser.class
+/TransactionAnnotationParser.class
+/TransactionManagementConfigurationSelector$1.class
+/TransactionManagementConfigurationSelector.class
+/TransactionManagementConfigurer.class
+/Transactional.class

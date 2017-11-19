@@ -1,0 +1,12 @@
+/AccessOptimizerAdapter.class
+/BulkAccessor.class
+/BulkAccessorException.class
+/BulkAccessorFactory.class
+/BytecodeProviderImpl.class
+/FastClass.class
+/InstantiationOptimizerAdapter.class
+/ProxyFactoryFactoryImpl$1.class
+/ProxyFactoryFactoryImpl$BasicProxyFactoryImpl.class
+/ProxyFactoryFactoryImpl$PassThroughHandler.class
+/ProxyFactoryFactoryImpl.class
+/ReflectionOptimizerImpl.class

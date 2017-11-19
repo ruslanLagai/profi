@@ -1,0 +1,10 @@
+/AbstractRetryEntryPoint.class
+/ChannelDecisionManager.class
+/ChannelDecisionManagerImpl.class
+/ChannelEntryPoint.class
+/ChannelProcessingFilter.class
+/ChannelProcessor.class
+/InsecureChannelProcessor.class
+/RetryWithHttpEntryPoint.class
+/RetryWithHttpsEntryPoint.class
+/SecureChannelProcessor.class

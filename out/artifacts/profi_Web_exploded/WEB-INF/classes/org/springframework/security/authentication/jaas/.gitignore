@@ -1,0 +1,13 @@
+/AbstractJaasAuthenticationProvider$InternalCallbackHandler.class
+/AbstractJaasAuthenticationProvider.class
+/AuthorityGranter.class
+/DefaultJaasAuthenticationProvider.class
+/DefaultLoginExceptionResolver.class
+/JaasAuthenticationCallbackHandler.class
+/JaasAuthenticationProvider.class
+/JaasAuthenticationToken.class
+/JaasGrantedAuthority.class
+/JaasNameCallbackHandler.class
+/JaasPasswordCallbackHandler.class
+/LoginExceptionResolver.class
+/SecurityContextLoginModule.class

@@ -1,0 +1,10 @@
+/AbstractRepositoryPopulatorFactoryBean.class
+/Jackson2RepositoryPopulatorFactoryBean.class
+/Jackson2ResourceReader.class
+/RepositoriesPopulatedEvent.class
+/RepositoryPopulator.class
+/ResourceReader$Type.class
+/ResourceReader.class
+/ResourceReaderRepositoryPopulator.class
+/UnmarshallerRepositoryPopulatorFactoryBean.class
+/UnmarshallingResourceReader.class

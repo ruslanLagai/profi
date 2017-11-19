@@ -1,0 +1,11 @@
+/AbstractSessionFixationProtectionStrategy$NullEventPublisher.class
+/AbstractSessionFixationProtectionStrategy.class
+/ChangeSessionIdAuthenticationStrategy.class
+/CompositeSessionAuthenticationStrategy.class
+/ConcurrentSessionControlAuthenticationStrategy.class
+/NullAuthenticatedSessionStrategy.class
+/RegisterSessionAuthenticationStrategy.class
+/SessionAuthenticationException.class
+/SessionAuthenticationStrategy.class
+/SessionFixationProtectionEvent.class
+/SessionFixationProtectionStrategy.class

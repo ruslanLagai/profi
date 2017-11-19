@@ -1,0 +1,17 @@
+/AbstractRecursiveAnnotationVisitor.class
+/AnnotationAttributesReadingVisitor.class
+/AnnotationMetadataReadingVisitor.class
+/AnnotationReadingVisitorUtils.class
+/CachingMetadataReaderFactory$1.class
+/CachingMetadataReaderFactory.class
+/ClassMetadataReadingVisitor$EmptyAnnotationVisitor.class
+/ClassMetadataReadingVisitor$EmptyFieldVisitor.class
+/ClassMetadataReadingVisitor$EmptyMethodVisitor.class
+/ClassMetadataReadingVisitor.class
+/MetadataReader.class
+/MetadataReaderFactory.class
+/MethodMetadataReadingVisitor.class
+/RecursiveAnnotationArrayVisitor.class
+/RecursiveAnnotationAttributesVisitor.class
+/SimpleMetadataReader.class
+/SimpleMetadataReaderFactory.class

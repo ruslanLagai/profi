@@ -1,0 +1,12 @@
+/AbstractLobType.class
+/AsyncRequestInterceptor.class
+/BlobByteArrayType.class
+/BlobSerializableType.class
+/BlobStringType.class
+/ClobStringType.class
+/HibernateDaoSupport.class
+/IdTransferringMergeEventListener.class
+/OpenSessionInViewFilter.class
+/OpenSessionInViewInterceptor.class
+/OpenSessionInterceptor.class
+/ScopedBeanInterceptor.class

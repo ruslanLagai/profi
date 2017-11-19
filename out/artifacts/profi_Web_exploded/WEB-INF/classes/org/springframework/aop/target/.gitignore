@@ -1,0 +1,15 @@
+/AbstractBeanFactoryBasedTargetSource.class
+/AbstractLazyCreationTargetSource.class
+/AbstractPoolingTargetSource.class
+/AbstractPrototypeBasedTargetSource.class
+/CommonsPool2TargetSource.class
+/CommonsPoolTargetSource.class
+/EmptyTargetSource.class
+/HotSwappableTargetSource.class
+/LazyInitTargetSource.class
+/PoolingConfig.class
+/PrototypeTargetSource.class
+/SimpleBeanTargetSource.class
+/SingletonTargetSource.class
+/ThreadLocalTargetSource.class
+/ThreadLocalTargetSourceStats.class

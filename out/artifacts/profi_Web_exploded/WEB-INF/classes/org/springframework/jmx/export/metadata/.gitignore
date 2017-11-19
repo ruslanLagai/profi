@@ -1,0 +1,10 @@
+/AbstractJmxAttribute.class
+/InvalidMetadataException.class
+/JmxAttributeSource.class
+/JmxMetadataUtils.class
+/ManagedAttribute.class
+/ManagedMetric.class
+/ManagedNotification.class
+/ManagedOperation.class
+/ManagedOperationParameter.class
+/ManagedResource.class

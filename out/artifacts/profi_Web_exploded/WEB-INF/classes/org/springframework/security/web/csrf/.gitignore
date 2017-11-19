@@ -1,0 +1,15 @@
+/CookieCsrfTokenRepository.class
+/CsrfAuthenticationStrategy.class
+/CsrfException.class
+/CsrfFilter$1.class
+/CsrfFilter$DefaultRequiresCsrfMatcher.class
+/CsrfFilter.class
+/CsrfLogoutHandler.class
+/CsrfToken.class
+/CsrfTokenRepository.class
+/DefaultCsrfToken.class
+/HttpSessionCsrfTokenRepository.class
+/InvalidCsrfTokenException.class
+/LazyCsrfTokenRepository$SaveOnAccessCsrfToken.class
+/LazyCsrfTokenRepository.class
+/MissingCsrfTokenException.class

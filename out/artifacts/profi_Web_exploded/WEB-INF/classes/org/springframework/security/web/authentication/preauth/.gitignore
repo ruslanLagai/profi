@@ -1,0 +1,8 @@
+/AbstractPreAuthenticatedProcessingFilter.class
+/PreAuthenticatedAuthenticationProvider.class
+/PreAuthenticatedAuthenticationToken.class
+/PreAuthenticatedCredentialsNotFoundException.class
+/PreAuthenticatedGrantedAuthoritiesUserDetailsService.class
+/PreAuthenticatedGrantedAuthoritiesWebAuthenticationDetails.class
+/RequestAttributeAuthenticationFilter.class
+/RequestHeaderAuthenticationFilter.class

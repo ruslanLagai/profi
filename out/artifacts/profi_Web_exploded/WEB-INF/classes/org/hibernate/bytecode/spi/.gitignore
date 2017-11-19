@@ -1,0 +1,11 @@
+/BasicProxyFactory.class
+/ByteCodeHelper.class
+/BytecodeEnhancementMetadata.class
+/BytecodeProvider.class
+/ClassTransformer.class
+/InstrumentedClassLoader.class
+/NotInstrumentedException.class
+/ProxyFactoryFactory.class
+/ReflectionOptimizer$AccessOptimizer.class
+/ReflectionOptimizer$InstantiationOptimizer.class
+/ReflectionOptimizer.class

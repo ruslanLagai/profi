@@ -1,0 +1,12 @@
+/InstrumentationLoadTimeWeaver$FilteringClassFileTransformer.class
+/InstrumentationLoadTimeWeaver$InstrumentationAccessor.class
+/InstrumentationLoadTimeWeaver.class
+/LoadTimeWeaver.class
+/ReflectiveLoadTimeWeaver.class
+/ResourceOverridingShadowingClassLoader$1.class
+/ResourceOverridingShadowingClassLoader.class
+/ShadowingClassLoader.class
+/SimpleInstrumentableClassLoader.class
+/SimpleLoadTimeWeaver.class
+/SimpleThrowawayClassLoader.class
+/WeavingTransformer.class

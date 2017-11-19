@@ -1,0 +1,14 @@
+/BeanValidationPostProcessor.class
+/CustomValidatorBean.class
+/LocalValidatorFactoryBean$1.class
+/LocalValidatorFactoryBean$HibernateValidatorDelegate.class
+/LocalValidatorFactoryBean.class
+/LocaleContextMessageInterpolator.class
+/MessageSourceResourceBundleLocator.class
+/MethodValidationInterceptor$HibernateValidatorDelegate.class
+/MethodValidationInterceptor.class
+/MethodValidationPostProcessor.class
+/OptionalValidatorFactoryBean.class
+/SpringConstraintValidatorFactory.class
+/SpringValidatorAdapter$ResolvableAttribute.class
+/SpringValidatorAdapter.class

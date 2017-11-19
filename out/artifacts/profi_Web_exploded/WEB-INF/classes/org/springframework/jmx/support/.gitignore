@@ -1,0 +1,14 @@
+/ConnectorServerFactoryBean$1.class
+/ConnectorServerFactoryBean.class
+/JmxUtils.class
+/MBeanRegistrationSupport.class
+/MBeanServerConnectionFactoryBean$1.class
+/MBeanServerConnectionFactoryBean$JMXConnectorLazyInitTargetSource.class
+/MBeanServerConnectionFactoryBean$MBeanServerConnectionLazyInitTargetSource.class
+/MBeanServerConnectionFactoryBean.class
+/MBeanServerFactoryBean.class
+/MetricType.class
+/NotificationListenerHolder.class
+/ObjectNameManager.class
+/RegistrationPolicy.class
+/WebSphereMBeanServerFactoryBean.class

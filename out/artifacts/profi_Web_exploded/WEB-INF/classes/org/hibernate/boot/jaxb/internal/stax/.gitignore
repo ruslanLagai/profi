@@ -1,0 +1,15 @@
+/BaseXMLEventReader.class
+/BufferedXMLEventReader.class
+/FilteringXMLEventReader.class
+/HbmEventReader.class
+/JpaOrmXmlEventReader$BadVersionException.class
+/JpaOrmXmlEventReader.class
+/LocalSchema.class
+/LocalSchemaLocator.class
+/LocalXmlResourceResolver$DtdMapping.class
+/LocalXmlResourceResolver$NamespaceSchemaMapping.class
+/LocalXmlResourceResolver.class
+/SupportedOrmXsdVersion.class
+/UnsupportedOrmXsdVersionException.class
+/XMLStreamConstantsUtils.class
+/XmlInfrastructureException.class

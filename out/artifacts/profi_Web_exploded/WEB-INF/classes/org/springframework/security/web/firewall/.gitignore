@@ -1,0 +1,7 @@
+/DefaultHttpFirewall.class
+/FirewalledRequest.class
+/FirewalledResponse.class
+/HttpFirewall.class
+/RequestRejectedException.class
+/RequestWrapper$FirewalledRequestAwareRequestDispatcher.class
+/RequestWrapper.class

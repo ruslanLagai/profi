@@ -1,0 +1,14 @@
+/AbstractSelectLockingStrategy.class
+/LockingStrategy.class
+/LockingStrategyException.class
+/OptimisticEntityLockException.class
+/OptimisticForceIncrementLockingStrategy.class
+/OptimisticLockingStrategy.class
+/PessimisticEntityLockException.class
+/PessimisticForceIncrementLockingStrategy.class
+/PessimisticReadSelectLockingStrategy.class
+/PessimisticReadUpdateLockingStrategy.class
+/PessimisticWriteSelectLockingStrategy.class
+/PessimisticWriteUpdateLockingStrategy.class
+/SelectLockingStrategy.class
+/UpdateLockingStrategy.class

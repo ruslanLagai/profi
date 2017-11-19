@@ -1,0 +1,10 @@
+/BurlapClientInterceptor.class
+/BurlapExporter.class
+/BurlapProxyFactoryBean.class
+/BurlapServiceExporter.class
+/HessianClientInterceptor.class
+/HessianExporter.class
+/HessianProxyFactoryBean.class
+/HessianServiceExporter.class
+/SimpleBurlapServiceExporter.class
+/SimpleHessianServiceExporter.class

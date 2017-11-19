@@ -1,0 +1,14 @@
+/AbstractLimitHandler.class
+/CUBRIDLimitHandler.class
+/FirstLimitHandler.class
+/Informix10LimitHandler.class
+/LegacyFirstLimitHandler.class
+/LegacyLimitHandler.class
+/LimitHandler.class
+/LimitHelper.class
+/NoopLimitHandler.class
+/SQL2008StandardLimitHandler.class
+/SQLServer2005LimitHandler$IgnoreRange.class
+/SQLServer2005LimitHandler.class
+/SQLServer2012LimitHandler.class
+/TopLimitHandler.class

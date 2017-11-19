@@ -1,0 +1,6 @@
+/AbstractAuthorizationEvent.class
+/AuthenticationCredentialsNotFoundEvent.class
+/AuthorizationFailureEvent.class
+/AuthorizedEvent.class
+/LoggerListener.class
+/PublicInvocationEvent.class

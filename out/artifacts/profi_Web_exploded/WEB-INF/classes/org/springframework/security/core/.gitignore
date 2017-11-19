@@ -1,0 +1,12 @@
+/Authentication.class
+/AuthenticationException.class
+/ComparableVersion$1.class
+/ComparableVersion$IntegerItem.class
+/ComparableVersion$Item.class
+/ComparableVersion$ListItem.class
+/ComparableVersion$StringItem.class
+/ComparableVersion.class
+/CredentialsContainer.class
+/GrantedAuthority.class
+/SpringSecurityCoreVersion.class
+/SpringSecurityMessageSource.class

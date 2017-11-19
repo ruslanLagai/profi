@@ -1,0 +1,12 @@
+/AbstractRememberMeServices.class
+/CookieTheftException.class
+/InMemoryTokenRepositoryImpl.class
+/InvalidCookieException.class
+/JdbcTokenRepositoryImpl$1.class
+/JdbcTokenRepositoryImpl.class
+/PersistentRememberMeToken.class
+/PersistentTokenBasedRememberMeServices.class
+/PersistentTokenRepository.class
+/RememberMeAuthenticationException.class
+/RememberMeAuthenticationFilter.class
+/TokenBasedRememberMeServices.class

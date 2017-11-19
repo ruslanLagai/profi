@@ -1,0 +1,12 @@
+/AbstractMappingContentNegotiationStrategy.class
+/ContentNegotiationManager.class
+/ContentNegotiationManagerFactoryBean.class
+/ContentNegotiationStrategy.class
+/FixedContentNegotiationStrategy.class
+/HeaderContentNegotiationStrategy.class
+/MappingMediaTypeFileExtensionResolver.class
+/MediaTypeFileExtensionResolver.class
+/ParameterContentNegotiationStrategy.class
+/PathExtensionContentNegotiationStrategy$ActivationMediaTypeFactory.class
+/PathExtensionContentNegotiationStrategy.class
+/ServletPathExtensionContentNegotiationStrategy.class

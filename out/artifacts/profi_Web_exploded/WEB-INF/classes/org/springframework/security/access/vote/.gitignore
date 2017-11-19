@@ -1,0 +1,8 @@
+/AbstractAccessDecisionManager.class
+/AbstractAclVoter.class
+/AffirmativeBased.class
+/AuthenticatedVoter.class
+/ConsensusBased.class
+/RoleHierarchyVoter.class
+/RoleVoter.class
+/UnanimousBased.class

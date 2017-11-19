@@ -1,0 +1,15 @@
+/BaseXMLEventReader.class
+/BufferedXMLEventReader.class
+/DTDEntityResolver.class
+/ErrorLogger.class
+/FilteringXMLEventReader.class
+/Origin.class
+/OriginImpl.class
+/UnsupportedOrmXsdVersionException.class
+/XMLHelper$1.class
+/XMLHelper.class
+/XMLStreamConstantsUtils.class
+/XmlDocument.class
+/XmlDocumentImpl.class
+/XmlInfrastructureException.class
+/XsdException.class

@@ -1,0 +1,15 @@
+/HibernateEntityManagerEventListener.class
+/JpaAutoFlushEventListener.class
+/JpaDeleteEventListener.class
+/JpaFlushEntityEventListener.class
+/JpaFlushEventListener.class
+/JpaMergeEventListener.class
+/JpaPersistEventListener$1.class
+/JpaPersistEventListener.class
+/JpaPersistOnFlushEventListener.class
+/JpaPostDeleteEventListener.class
+/JpaPostInsertEventListener.class
+/JpaPostLoadEventListener.class
+/JpaPostUpdateEventListener.class
+/JpaSaveEventListener.class
+/JpaSaveOrUpdateEventListener.class

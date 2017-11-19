@@ -1,0 +1,16 @@
+/AnonymousAuthenticationTokenMixin.class
+/CoreJackson2Module.class
+/RememberMeAuthenticationTokenMixin.class
+/SecurityJackson2Modules$WhitelistTypeIdResolver.class
+/SecurityJackson2Modules$WhitelistTypeResolverBuilder.class
+/SecurityJackson2Modules.class
+/SimpleGrantedAuthorityMixin.class
+/UnmodifiableSetDeserializer.class
+/UnmodifiableSetMixin.class
+/UserDeserializer$1.class
+/UserDeserializer.class
+/UserMixin.class
+/UsernamePasswordAuthenticationTokenDeserializer$1.class
+/UsernamePasswordAuthenticationTokenDeserializer$2.class
+/UsernamePasswordAuthenticationTokenDeserializer.class
+/UsernamePasswordAuthenticationTokenMixin.class

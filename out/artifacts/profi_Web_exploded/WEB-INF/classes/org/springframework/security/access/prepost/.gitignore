@@ -1,0 +1,12 @@
+/PostAuthorize.class
+/PostFilter.class
+/PostInvocationAdviceProvider.class
+/PostInvocationAttribute.class
+/PostInvocationAuthorizationAdvice.class
+/PreAuthorize.class
+/PreFilter.class
+/PreInvocationAttribute.class
+/PreInvocationAuthorizationAdvice.class
+/PreInvocationAuthorizationAdviceVoter.class
+/PrePostAnnotationSecurityMetadataSource.class
+/PrePostInvocationAttributeFactory.class

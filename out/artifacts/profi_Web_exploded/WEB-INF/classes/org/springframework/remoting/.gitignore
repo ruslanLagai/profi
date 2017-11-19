@@ -1,0 +1,6 @@
+/RemoteAccessException.class
+/RemoteConnectFailureException.class
+/RemoteInvocationFailureException.class
+/RemoteLookupFailureException.class
+/RemoteProxyFailureException.class
+/RemoteTimeoutException.class

@@ -1,0 +1,11 @@
+/JtaAfterCompletionSynchronization.class
+/JtaTransactionManager.class
+/JtaTransactionObject.class
+/ManagedTransactionAdapter.class
+/SimpleTransactionFactory.class
+/SpringJtaSynchronizationAdapter.class
+/TransactionFactory.class
+/UserTransactionAdapter.class
+/WebLogicJtaTransactionManager.class
+/WebSphereUowTransactionManager$UOWActionAdapter.class
+/WebSphereUowTransactionManager.class

@@ -1,0 +1,14 @@
+/CciLocalTransactionManager$1.class
+/CciLocalTransactionManager$CciLocalTransactionObject.class
+/CciLocalTransactionManager.class
+/ConnectionFactoryUtils$ConnectionSynchronization.class
+/ConnectionFactoryUtils.class
+/ConnectionHolder.class
+/ConnectionSpecConnectionFactoryAdapter.class
+/DelegatingConnectionFactory.class
+/NotSupportedRecordFactory.class
+/SingleConnectionFactory$1.class
+/SingleConnectionFactory$CloseSuppressingInvocationHandler.class
+/SingleConnectionFactory.class
+/TransactionAwareConnectionFactoryProxy$TransactionAwareInvocationHandler.class
+/TransactionAwareConnectionFactoryProxy.class

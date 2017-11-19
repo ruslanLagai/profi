@@ -1,0 +1,10 @@
+/AccessDecisionManager.class
+/AccessDecisionVoter.class
+/AccessDeniedException.class
+/AfterInvocationProvider.class
+/AuthorizationServiceException.class
+/ConfigAttribute.class
+/PermissionCacheOptimizer.class
+/PermissionEvaluator.class
+/SecurityConfig.class
+/SecurityMetadataSource.class

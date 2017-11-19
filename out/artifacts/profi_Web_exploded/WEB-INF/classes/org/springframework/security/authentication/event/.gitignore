@@ -1,0 +1,13 @@
+/AbstractAuthenticationEvent.class
+/AbstractAuthenticationFailureEvent.class
+/AuthenticationFailureBadCredentialsEvent.class
+/AuthenticationFailureCredentialsExpiredEvent.class
+/AuthenticationFailureDisabledEvent.class
+/AuthenticationFailureExpiredEvent.class
+/AuthenticationFailureLockedEvent.class
+/AuthenticationFailureProviderNotFoundEvent.class
+/AuthenticationFailureProxyUntrustedEvent.class
+/AuthenticationFailureServiceExceptionEvent.class
+/AuthenticationSuccessEvent.class
+/InteractiveAuthenticationSuccessEvent.class
+/LoggerListener.class

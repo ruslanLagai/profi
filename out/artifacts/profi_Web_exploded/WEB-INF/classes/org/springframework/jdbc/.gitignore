@@ -1,0 +1,8 @@
+/BadSqlGrammarException.class
+/CannotGetJdbcConnectionException.class
+/IncorrectResultSetColumnCountException.class
+/InvalidResultSetAccessException.class
+/JdbcUpdateAffectedIncorrectNumberOfRowsException.class
+/LobRetrievalFailureException.class
+/SQLWarningException.class
+/UncategorizedSQLException.class

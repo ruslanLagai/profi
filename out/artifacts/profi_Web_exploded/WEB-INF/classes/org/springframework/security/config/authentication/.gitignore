@@ -1,0 +1,10 @@
+/AbstractUserDetailsServiceBeanDefinitionParser.class
+/AuthenticationManagerBeanDefinitionParser$NullAuthenticationProvider.class
+/AuthenticationManagerBeanDefinitionParser.class
+/AuthenticationManagerFactoryBean.class
+/AuthenticationProviderBeanDefinitionParser.class
+/CachingUserDetailsService.class
+/JdbcUserServiceBeanDefinitionParser.class
+/PasswordEncoderParser.class
+/SaltSourceBeanDefinitionParser.class
+/UserServiceBeanDefinitionParser.class

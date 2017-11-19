@@ -1,0 +1,6 @@
+/MethodConfigurationRule.class
+/OverridingMethodMustNotAlterParameterConstraints.class
+/ParallelMethodsMustNotDefineGroupConversionForCascadedReturnValue.class
+/ParallelMethodsMustNotDefineParameterConstraints.class
+/ReturnValueMayOnlyBeMarkedOnceAsCascadedPerHierarchyLine.class
+/VoidMethodsMustNotBeReturnValueConstrained.class

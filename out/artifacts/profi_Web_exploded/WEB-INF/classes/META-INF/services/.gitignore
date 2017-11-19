@@ -1,0 +1,6 @@
+/java.sql.Driver
+/javax.enterprise.inject.spi.Extension
+/javax.persistence.spi.PersistenceProvider
+/javax.servlet.ServletContainerInitializer
+/javax.validation.spi.ValidationProvider
+/org.apache.commons.logging.LogFactory

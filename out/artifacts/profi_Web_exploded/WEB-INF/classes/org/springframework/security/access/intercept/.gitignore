@@ -1,0 +1,12 @@
+/AbstractSecurityInterceptor$1.class
+/AbstractSecurityInterceptor$NoOpAuthenticationManager.class
+/AbstractSecurityInterceptor.class
+/AfterInvocationManager.class
+/AfterInvocationProviderManager.class
+/InterceptorStatusToken.class
+/MethodInvocationPrivilegeEvaluator.class
+/NullRunAsManager.class
+/RunAsImplAuthenticationProvider.class
+/RunAsManager.class
+/RunAsManagerImpl.class
+/RunAsUserToken.class

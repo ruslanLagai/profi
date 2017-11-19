@@ -1,0 +1,10 @@
+/AbstractArchiveDescriptor.class
+/AbstractArchiveDescriptorFactory.class
+/ArchiveContext.class
+/ArchiveDescriptor.class
+/ArchiveDescriptorFactory.class
+/ArchiveEntry.class
+/ArchiveEntryHandler.class
+/ArchiveException.class
+/InputStreamAccess.class
+/JarFileEntryUrlAdjuster.class

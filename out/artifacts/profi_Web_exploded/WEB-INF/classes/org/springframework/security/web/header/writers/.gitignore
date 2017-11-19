@@ -1,0 +1,14 @@
+/CacheControlHeadersWriter.class
+/ContentSecurityPolicyHeaderWriter.class
+/DelegatingRequestMatcherHeaderWriter.class
+/HpkpHeaderWriter$1.class
+/HpkpHeaderWriter$SecureRequestMatcher.class
+/HpkpHeaderWriter.class
+/HstsHeaderWriter$1.class
+/HstsHeaderWriter$SecureRequestMatcher.class
+/HstsHeaderWriter.class
+/ReferrerPolicyHeaderWriter$ReferrerPolicy.class
+/ReferrerPolicyHeaderWriter.class
+/StaticHeadersWriter.class
+/XContentTypeOptionsHeaderWriter.class
+/XXssProtectionHeaderWriter.class

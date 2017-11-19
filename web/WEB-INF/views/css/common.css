@@ -1,0 +1,86 @@
+.backgroundPic{
+    background-image: url("../resources/job.jpg");
+    background-repeat: no-repeat;
+}
+
+div.frame {
+    margin-top: 10%;
+    padding: 35px;
+}
+
+.padding {
+    padding: 20px;
+}
+div.opacity {
+    opacity: 0.9;
+}
+
+.opacity-07 {opacity: 0.7}
+
+.opacity-08 {opacity: 0.8}
+
+.opacity-08 {opacity: 0.9}
+
+/*
+Panels and frames
+ */
+.card,.hover-shadow:hover{
+    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19)
+}
+
+.fixed-panel{position: fixed}
+
+.panel{padding: 0 1em 0 0.5em}
+
+/*
+Colors
+ */
+
+.bg-white,.bg-white:hover{
+    color:#000!important;
+    background-color:#fff!important
+}
+
+.bg-grey {
+    color:#000!important;
+    background-color:#f1f1f1!important
+}
+
+.text-color {
+    color:#009688!important;
+}
+
+.text-black {
+    color:#000000!important;
+}
+
+/*
+botton style
+*/
+.btn-size{
+    width: 90%;
+    border-style: none;
+}
+
+.btn-font {
+    font-family: "Century Gothic", monospace;
+    color:#009688!important;
+}
+
+.text-input {
+    border: double gray;
+    border-radius: 8px;
+}
+
+.date-input {
+    border: double;
+    color: grey;
+    border-radius: 8px;
+}
+
+/*
+Size
+ */
+.width-100 {width: 100%;}
+
+.width-90 {width: 90%}

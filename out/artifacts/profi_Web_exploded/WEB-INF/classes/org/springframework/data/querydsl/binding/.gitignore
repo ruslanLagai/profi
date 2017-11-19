@@ -1,0 +1,17 @@
+/MultiValueBinding.class
+/PathInformation.class
+/PropertyPathInformation.class
+/QuerydslBinderCustomizer.class
+/QuerydslBindings$AliasingPathBinder.class
+/QuerydslBindings$MultiValueBindingAdapter.class
+/QuerydslBindings$PathAndBinding.class
+/QuerydslBindings$PathBinder.class
+/QuerydslBindings$TypeBinder.class
+/QuerydslBindings.class
+/QuerydslBindingsFactory$NoOpCustomizer.class
+/QuerydslBindingsFactory.class
+/QuerydslDefaultBinding.class
+/QuerydslPathInformation.class
+/QuerydslPredicate.class
+/QuerydslPredicateBuilder.class
+/SingleValueBinding.class

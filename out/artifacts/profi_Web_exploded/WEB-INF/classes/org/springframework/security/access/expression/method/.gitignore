@@ -1,0 +1,11 @@
+/AbstractExpressionBasedMethodConfigAttribute.class
+/DefaultMethodSecurityExpressionHandler.class
+/ExpressionBasedAnnotationAttributeFactory.class
+/ExpressionBasedPostInvocationAdvice.class
+/ExpressionBasedPreInvocationAdvice.class
+/MethodSecurityEvaluationContext.class
+/MethodSecurityExpressionHandler.class
+/MethodSecurityExpressionOperations.class
+/MethodSecurityExpressionRoot.class
+/PostInvocationExpressionAttribute.class
+/PreInvocationExpressionAttribute.class

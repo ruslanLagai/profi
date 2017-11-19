@@ -1,0 +1,16 @@
+/ConfigurationPrinterHelper$ConfigLogBuilder.class
+/ConfigurationPrinterHelper.class
+/DialectConfiguration.class
+/DialectSetConfiguration$AggregateExpressionObjectFactory.class
+/DialectSetConfiguration.class
+/EngineConfiguration$LinkBuilderComparator.class
+/EngineConfiguration$MessageResolverComparator.class
+/EngineConfiguration$TemplateResolverComparator.class
+/EngineConfiguration.class
+/IEngineConfiguration.class
+/ITemplateEngine.class
+/IThrottledTemplateProcessor.class
+/TemplateEngine.class
+/TemplateSpec.class
+/Thymeleaf.class
+/thymeleaf.properties
